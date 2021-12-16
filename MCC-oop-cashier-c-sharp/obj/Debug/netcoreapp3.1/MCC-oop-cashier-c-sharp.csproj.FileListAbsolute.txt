@@ -1,0 +1,13 @@
+C:\Users\ADMIN\source\repos\MCC-oop-cashier-c-sharp\MCC-oop-cashier-c-sharp\obj\Debug\netcoreapp3.1\MCC-oop-cashier-c-sharp.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\MCC-oop-cashier-c-sharp\MCC-oop-cashier-c-sharp\obj\Debug\netcoreapp3.1\MCC-oop-cashier-c-sharp.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\MCC-oop-cashier-c-sharp\MCC-oop-cashier-c-sharp\obj\Debug\netcoreapp3.1\MCC-oop-cashier-c-sharp.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\MCC-oop-cashier-c-sharp\MCC-oop-cashier-c-sharp\obj\Debug\netcoreapp3.1\MCC-oop-cashier-c-sharp.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\MCC-oop-cashier-c-sharp\MCC-oop-cashier-c-sharp\bin\Debug\netcoreapp3.1\MCC-oop-cashier-c-sharp.exe
+C:\Users\ADMIN\source\repos\MCC-oop-cashier-c-sharp\MCC-oop-cashier-c-sharp\bin\Debug\netcoreapp3.1\MCC-oop-cashier-c-sharp.deps.json
+C:\Users\ADMIN\source\repos\MCC-oop-cashier-c-sharp\MCC-oop-cashier-c-sharp\bin\Debug\netcoreapp3.1\MCC-oop-cashier-c-sharp.runtimeconfig.json
+C:\Users\ADMIN\source\repos\MCC-oop-cashier-c-sharp\MCC-oop-cashier-c-sharp\bin\Debug\netcoreapp3.1\MCC-oop-cashier-c-sharp.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\MCC-oop-cashier-c-sharp\MCC-oop-cashier-c-sharp\bin\Debug\netcoreapp3.1\MCC-oop-cashier-c-sharp.dll
+C:\Users\ADMIN\source\repos\MCC-oop-cashier-c-sharp\MCC-oop-cashier-c-sharp\bin\Debug\netcoreapp3.1\MCC-oop-cashier-c-sharp.pdb
+C:\Users\ADMIN\source\repos\MCC-oop-cashier-c-sharp\MCC-oop-cashier-c-sharp\obj\Debug\netcoreapp3.1\MCC-oop-cashier-c-sharp.dll
+C:\Users\ADMIN\source\repos\MCC-oop-cashier-c-sharp\MCC-oop-cashier-c-sharp\obj\Debug\netcoreapp3.1\MCC-oop-cashier-c-sharp.pdb
+C:\Users\ADMIN\source\repos\MCC-oop-cashier-c-sharp\MCC-oop-cashier-c-sharp\obj\Debug\netcoreapp3.1\MCC-oop-cashier-c-sharp.genruntimeconfig.cache
